@@ -1,0 +1,12 @@
+dependencies {
+	compileOnly group: "com.liferay.portal", name: "release.portal.api"
+
+	cssBuilder group: "com.liferay", name: "com.liferay.css.builder", version: "3.1.0"
+
+	
+}
+
+liferay {
+    liferayHome = "C:\\Users\\user\\Desktop\\liferay-ce-portal-7.4.3.93-ga93"
+    deployDir = file("${liferayHome}\\deploy")
+}

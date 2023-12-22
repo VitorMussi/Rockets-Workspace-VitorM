@@ -1,0 +1,4 @@
+Bundle-Name: GX2_Desafio_Evento
+Bundle-SymbolicName: br.com.gx2.GX2.Desafio.Evento
+Bundle-Version: 1.0.0
+Export-Package: br.com.gx2.GX2.Desafio.Evento.constants

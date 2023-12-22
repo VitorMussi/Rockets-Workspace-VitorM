@@ -1,0 +1,4 @@
+Bundle-Name: Tem_Eventos
+Bundle-SymbolicName: Tem_Eventos
+Bundle-Version: 1.0.0
+Export-Package: Tem_Eventos.constants

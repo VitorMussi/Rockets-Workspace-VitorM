@@ -1,0 +1,4 @@
+Bundle-Name: Evento.Portlet
+Bundle-SymbolicName: br.com.gx2.eventos.portlet
+Bundle-Version: 1.0.0
+Export-Package: br.com.gx2.eventos.portlet.constants

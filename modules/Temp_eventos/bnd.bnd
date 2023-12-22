@@ -1,0 +1,4 @@
+Bundle-Name: Temp_eventos
+Bundle-SymbolicName: br.com
+Bundle-Version: 1.0.0
+Export-Package: br.com.constants
